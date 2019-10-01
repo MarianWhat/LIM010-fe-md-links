@@ -1,0 +1,26 @@
+{
+  "name": "md-links",
+  "version": "1.0.0",
+  "description": "md-links | Laboratiria | @MarianWhat",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarianWhat/LIM010-fe-md-links.git"
+  },
+  "author": "https://github.com/MarianWhat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarianWhat/LIM010-fe-md-links/issues"
+  },
+  "homepage": "https://github.com/MarianWhat/LIM010-fe-md-links#readme"
+}
