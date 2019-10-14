@@ -1,0 +1,2 @@
+[MVC](https://es.wikipedia.org/wiki/Modelo%E2%80%93vista%E2%80%93controlador)
+[Diseñar la arquitectura de tu aplicación, modularizando tu código a través de es modules](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/import)
